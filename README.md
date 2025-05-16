@@ -1,6 +1,8 @@
 # Reconnect
 
-Aplicativo mobile voltado para casais, com foco em conexão real, menos tempo no celular e mais momentos juntos.
+Reconnect - App para Casais
+
+Reconnect é um aplicativo mobile feito para casais se conectarem mais no mundo real, com desafios diários, estatísticas de tempo juntos e modos que incentivam a desconexão do celular
 
 ## Funcionalidades
 
